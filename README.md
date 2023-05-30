@@ -1,1 +1,1 @@
-# Flappy Flip Flop (Flappy Bird Clone) - Györki Ádám A7TIJX Féléves Feladat
+# Flappy Flip Flop (Flappy Bird Clone) - Györki Ádám A7TIJX Féléves Feladat (Haladó C#)
