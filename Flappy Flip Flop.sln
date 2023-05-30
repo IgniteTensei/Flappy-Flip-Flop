@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flappy Flip Flop", "Flappy Flip Flop\Flappy Flip Flop.csproj", "{38208502-0B6B-4582-A60A-CB5455B5A11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38208502-0B6B-4582-A60A-CB5455B5A11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38208502-0B6B-4582-A60A-CB5455B5A11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38208502-0B6B-4582-A60A-CB5455B5A11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38208502-0B6B-4582-A60A-CB5455B5A11B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6E7576-8B6A-4D17-A2DB-C018C71D9506}
+	EndGlobalSection
+EndGlobal
